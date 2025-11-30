@@ -18,7 +18,7 @@
 - 👯 Looking to collaborate on **Frontend Projects, Web Apps, and UI/UX Design**  
 - 💬 Ask me about **Web Development, React, Next.js, Tailwind, Figma**  
 - 📫 Reach me at **epsitamalla@example.com**  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 🌐 Portfolio: [https://epsitamalla.vercel.app/](https://epsitamalla.vercel.app/)
 
 ---
 
