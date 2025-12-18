@@ -15,9 +15,10 @@
 - 🎨 **UI/UX Designer** passionate about creating intuitive, beautiful interfaces  
 - 💻 **Frontend Developer** specializing in React, Next.js, Vite, and responsive web design  
 - 🌱 Currently learning **Advanced React, Next.js App Router, and modern UI/UX trends**  
-- 👯 Looking to collaborate on **Frontend Projects, Web Apps, and UI/UX Design**  
+- 👯 Looking to collaborate on **Frontend Projects, Web Apps, and UI/UX Design**
+- ⚙️ QA Engineer and Researcher focused on ensuring software quality through effective **testing, analysis, and research-driven improvement**.
 - 💬 Ask me about **Web Development, React, Next.js, Tailwind, Figma**  
-- 📫 Reach me at **epsitamalla@example.com**  
+- 📫 Reach me at **epsitamalla@example.com**
 - 🌐 Portfolio: [https://epsitamalla.vercel.app/](https://epsitamalla.vercel.app/)
 
 ---
