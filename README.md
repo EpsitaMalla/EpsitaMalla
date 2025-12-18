@@ -11,13 +11,15 @@
 </p>
 
 - 🎓 I’m a **CSIT student**  
-- 🎨 **UI/UX Designer** passionate about creating intuitive, beautiful interfaces  
-- 💻 **Frontend Developer** specializing in React, Next.js, Vite, and responsive web design  
-- 🌱 Currently learning **Advanced React, Next.js App Router, and modern UI/UX trends**  
-- 👯 Looking to collaborate on **Frontend Projects, Web Apps, and UI/UX Design**
-- ⚙️ QA Engineer and Researcher focused on ensuring software quality through effective **testing, analysis, and research-driven improvement**.
-- 💬 Ask me about **Web Development, React, Next.js, Tailwind, Figma**  
-- 📫 Reach me at **epsitamalla@example.com**
+- 🎨 **UI/UX Designer** passionate about creating intuitive, user-centered, and visually appealing interfaces
+- 💻 **Frontend Developer** specializing in **React, Next.js, Vite**, and responsive web design
+- 🌱 Currently learning **Advanced React**, **Next.js App Router**, and modern **UI/UX trends**
+- ⚙️ **QA Engineer** focused on ensuring software quality through effective testing, analysis, and research-driven improvement
+- 📋 **Project Manager** with experience coordinating teams, managing workflows, and delivering projects efficiently
+- 🔍 **Researcher** driven by data, usability insights, and continuous improvement
+- 👯 Open to collaborating on **Frontend Projects**, **Web Apps**, **UI/UX Design**, and **Quality-Driven Development**
+- 💬 Ask me about **Web Development, React, Next.js, Tailwind CSS, Figma, QA, and Project Management**
+ - 📫 Reach me at **epsitamalla@example.com**
 - 🌐 Portfolio: [https://epsitamalla.vercel.app/](https://epsitamalla.vercel.app/)
 
 ---
