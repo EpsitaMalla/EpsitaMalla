@@ -72,6 +72,4 @@
 ---
 
 ### 💬 Quote of the Day
-<p align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
