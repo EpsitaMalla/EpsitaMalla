@@ -58,9 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epsitamalla&layout=compact&theme=nord" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=epsitamalla&theme=nord" height="180em" />
-</p>
 
 ---
 
