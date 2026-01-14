@@ -52,11 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epsitamalla&show_icons=true&theme=nord" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epsitamalla&layout=compact&theme=nord" height="180em" />
-</p>
+
 
 
 ---
