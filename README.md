@@ -13,7 +13,7 @@
 - 🎓 I’m a **CSIT student**  
 - 🎨 **UI/UX Designer** passionate about creating intuitive, user-centered, and visually appealing interfaces
 - 💻 **Frontend Developer** specializing in **React, Next.js, Vite**, and responsive web design
--     Learning Backend Development with** python **and **django**
+- 💡 Learning Backend Development with** python **and **django**
 - 👯 Open to collaborating on **Frontend Projects**, **Web Apps**, **UI/UX Design**, and **Quality-Driven Development**
 - 💬 Ask me about **Web Development, React, Next.js, Tailwind CSS, Figma,and Project Management**
  - 📫 Reach me at **epsitamalla@example.com**
